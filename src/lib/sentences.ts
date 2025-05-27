@@ -99997,6 +99997,4 @@ Vieni davanti alla classe.	Come to the front of the classroom.
 Venite davanti alla classe.	Come to the front of the classroom.
 Venga davanti alla classe.	Come to the front of the classroom.
 Mia madre viene dal Benin. È beninese.	My mother is from Benin. She is Beninese.
-Mia madre viene dal Benin. Lei è beninese.	My mother is from Benin. She is Beninese.`.split(
-  "\n",
-);
+Mia madre viene dal Benin. Lei è beninese.	My mother is from Benin. She is Beninese.`.split("\n");
